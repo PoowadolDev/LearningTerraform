@@ -1,1 +1,1 @@
-# LearningTerraform
+# Learning Terraform
